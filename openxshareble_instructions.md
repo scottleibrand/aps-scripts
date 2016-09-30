@@ -15,7 +15,7 @@ cd openxshareble
 sudo python setup.py develop
 ```
 
-`cd ~ /src`
+`cd ~/src`
 
 The steps below describe how to install BlueZ 5.37 on a Raspberry Pi running its Raspbian operating system. In a terminal on the Raspberry Pi run:
 
